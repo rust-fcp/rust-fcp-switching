@@ -8,7 +8,7 @@ repository = "https://github.com/rust-fcp/rust-fcp-switching"
 readme = "README.md"
 
 [dependencies]
-byteorder = "^0.5.3"
+byteorder = "^1.0.0"
 hex = "^0.2.0"
 simple_bencode = "^0.1.4"
 
